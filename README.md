@@ -6,7 +6,7 @@ The app's database stores a large amount of information manually extracted from 
 
 ## People
 
-- Project Lead: Devi Acharya, PhD Candidate
+- Project Lead: Devi Acharya, PhD Student
 - Software Development: Maxwell Joslyn, MS student
 - UI Design: Will Tate, BS student
 - Data Extraction: Michael Meacham, BS Student
